@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "poc-library-client-side-solution",
+    "id": "71f101a3-a6ed-4aa3-882c-7c7095a44088",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "poc-library description"
+      },
+      "longDescription": {
+        "default": "poc-library description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/poc-library.sppkg"
+  }
+}

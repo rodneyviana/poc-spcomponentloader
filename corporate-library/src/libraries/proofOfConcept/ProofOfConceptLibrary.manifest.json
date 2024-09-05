@@ -1,0 +1,9 @@
+{
+  "id": "7fca7997-87b9-42cf-9cf7-6b0c06c9e8b4",
+  "alias": "ProofOfConceptLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}

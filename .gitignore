@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Compiled output
+lib/
+temp/
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
+# SharePoint Framework
+*.sppkg
+*.sppkg.debug.js
+*.webpart
+*.webpart.js
+*.webpart.manifest.js
+*.webpart.symbols.js
+*.webpart.symbols.json
