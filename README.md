@@ -71,6 +71,7 @@ This is how the component is instantiated, please notice that you have to bundle
 cd corporate-library
 gulp clean --ship
 gulp bundle --ship
+gulp package-solution --ship
 ```
 The package will be located in the subfolder ```sharepoint``` with the name ```poc-library.sppkg```. Make sure you deploy before testing your web application.
 
